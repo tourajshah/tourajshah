@@ -25,7 +25,7 @@ Building high-performance, secure mobile applications. Focused on native-like UX
 #### 1. PeykLink - P2P Logistics Platform (iOS/Android Beta)
 *You can view the showcase, UI, and tech breakdown below.*
 * **Tech:** React Native, Expo, Reanimated, Skia, Web Crypto API, Convex.
-* **Highlight:** Engineered 60FPS gesture-driven 3D UIs and bank-grade `AES-GCM` encryption for delivery codes. 
+* **Highlight:** Engineered 60FPS gesture-driven 3D UIs and `AES-GCM` encryption for delivery codes. 
 * 👉 **[View the Peyklink Showcase Repo & Demo Video](https://github.com/tourajshah/peyklink-showcase)** 
 
 #### 2. Takvimci.tr
